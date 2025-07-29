@@ -44,13 +44,13 @@ python timer_alarm_app.py
 - **Choose Alarm Sound:**  
   - Click `Choose Sound` to pick your `.mp3` or `.wav` file, or use the default.
 
-    ---
+---
 
 ## Configuration/Files
 
 - The default alarm sound is `alarm.wav` (place a valid `alarm.wav` in the same folder or use `Choose Sound`).
 
-  ---
+---
 
 ## Code Structure
 
@@ -59,7 +59,7 @@ python timer_alarm_app.py
 - **Sound:** Played using `pygame` mixer.
 - **Tooltips:** Custom tooltip code for field explanations.
 
-  ---
+---
 
 ## Platform Notes
 
@@ -67,7 +67,7 @@ python timer_alarm_app.py
 - UI is fixed size (`430x520`).  
 - For best look, use a modern theme, or enhance with packages like [ttkbootstrap](https://ttkbootstrap.readthedocs.io/).
 
-  ---
+---
 
 ## License
 
